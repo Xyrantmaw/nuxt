@@ -3,6 +3,8 @@
 import { fileURLToPath } from 'node:url'
 import { addPluginTemplate, addRouteMiddleware } from 'nuxt/kit'
 
+
+/* Yudha */
 export default defineNuxtConfig({
   modules: [
     function () {
