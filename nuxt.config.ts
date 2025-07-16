@@ -4,7 +4,8 @@ import { fileURLToPath } from 'node:url'
 import { addPluginTemplate, addRouteMiddleware } from 'nuxt/kit'
 
 
-/* Yudha */
+/* Yudha */ /* Aku ingin Streak di gitHub aku hijau terus agar profile aku bisa dicap bagus oleh orang ornag dan mendapatkan pekerjaan
+yang layak */
 export default defineNuxtConfig({
   modules: [
     function () {
